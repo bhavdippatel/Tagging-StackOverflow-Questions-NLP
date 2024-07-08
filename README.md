@@ -1,5 +1,10 @@
 # Tagging-StackOverflow-Questions-NLP
 
+## Contributor Name
+
+- Bhavdipkumar Patel (https://github.com/bhavdippatel)
+- Kathan Naik (https://github.com/kathannaik) 
+
 #	Problem Statement
 
 * The problem says that we will be provided a bunch of questions. A question in Stack Overflow contains three segments Title, Description and Tags. By using the text in the title and description we should suggest the tags related to the subject of the question automatically. These tags are extremely important for the proper working of Stack Overflow. The project is based on a multi-label classification problem in NLP.
